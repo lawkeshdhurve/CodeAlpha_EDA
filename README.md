@@ -12,16 +12,14 @@ What payment method is most popular?
 Are there unusually high or zero purchase amounts?
 
 3. Data Structure
-| Column Name     | Data Type |
-| --------------- | --------- |
-| CustomerID      | int       |
-| Age             | int       |
-| Gender          | object    |
-| PurchaseAmount  | float/int |
-| ProductCategory | object    |
-| PaymentMethod   | object    |
-| PurchaseDate    | datetime  |
-
+Column Name	Data Type
+CustomerID	int
+Age	int
+Gender	object
+PurchaseAmount	float/int
+ProductCategory	object
+PaymentMethod	object
+PurchaseDate	datetime
 
  4. Trends, Patterns & Anomalies
 Trends: Electronics has high-value purchases.
