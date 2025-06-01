@@ -1,0 +1,9 @@
+CustomerID,Age,Gender,PurchaseAmount,ProductCategory,PaymentMethod,PurchaseDate
+1001,22,Male,2500,Electronics,Credit Card,5/1/2025
+1002,35,Female,480,Clothing,UPI,5/2/2025
+1003,29,Male,1200,Home Decor,Debit Card,5/3/2025
+1004,42,Female,15000,Electronics,Net Banking,5/4/2025
+1005,27,Male,760,Clothing,UPI,5/5/2025
+1006,60,Female,3500,Healthcare,Credit Card,5/6/2025
+1007,21,Male,0,Clothing,UPI,5/7/2025
+1008,33,Female,2200,Home Decor,Debit Card,5/8/2025
