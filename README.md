@@ -1,6 +1,6 @@
 # CodeAlpha_EDA
 
- 2. Meaningful Questions
+2. Meaningful Questions
 Do older customers spend more than younger ones?
 
 Are there gender-based differences in purchase behavior?
@@ -11,7 +11,7 @@ What payment method is most popular?
 
 Are there unusually high or zero purchase amounts?
 
- 3. Data Structure
+3. Data Structure
 | Column Name     | Data Type |
 | --------------- | --------- |
 | CustomerID      | int       |
